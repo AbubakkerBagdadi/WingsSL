@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "283901335176",
+    "firebase_url": "https://wings-sl-58e2b.firebaseio.com",
+    "project_id": "wings-sl-58e2b",
+    "storage_bucket": "wings-sl-58e2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283901335176:android:e241602c166e0324d7f13d",
+        "android_client_info": {
+          "package_name": "com.example.wingssl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283901335176-1anchc4vveiknt1ci7u9amnqs122u6n7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wingssl",
+            "certificate_hash": "fcadf1710be88083ec5763dc2c8df69bfbe1520d"
+          }
+        },
+        {
+          "client_id": "283901335176-p760ea6752cububa79842vcoq4l56jpm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-xicCcxFmN-OnHjw0PkMrN_BuVSxvr5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283901335176-p760ea6752cububa79842vcoq4l56jpm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
